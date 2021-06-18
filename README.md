@@ -1,6 +1,6 @@
 # LeetCode + Frontend Study
 
-## 사용언어
+### 사용언어
 Javascript를 주로 사용합니다. 
 
 ### LeetCode 공부방식
