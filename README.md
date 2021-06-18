@@ -15,7 +15,7 @@ tTab1204(폴더) - Array(폴더), Hash Tables(폴더) ... -> Two Sum - 2021.06.1
 ### Frontend 공부방식 
 미정
 
-## Contributiong / 기여
+### Contributors
 
 
 
