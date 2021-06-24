@@ -8,7 +8,7 @@ Javascript를 주로 사용합니다.
 2. 본인 폴더 생성 후 매일 푼 문제 업로드
 
 ```
-tTab1204(폴더) - Array(폴더), Hash Tables(폴더) ... -> Two Sum(파일명)  
+tTab1204(폴더) - Array(폴더), Hash Table(폴더) ... -> Two Sum(파일명)  
 ```
 
 ### Frontend 공부방식 
