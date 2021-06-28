@@ -1,4 +1,6 @@
+// 2021.06.18
 // Array
+// https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/
 
 const removeDuplicates = function (nums) {
     nums.reduce((acc, v, i) => {
