@@ -80,3 +80,35 @@ var isHappyC = function (n) {
 
   return slow === 1;
 };
+
+// Set
+/**
+ * @param {number} n
+ * @return {boolean}
+ */
+var isHappyD = function (n) {
+  let sum = n;
+  const sums = new Set();
+  while (sum > 1) {
+    const sumString = sum.toString();
+    sum = 0;
+    for (let i = 0; i < sumString.length; i++) {
+      sum += parseInt(sumString[i]) ** 2;
+    }
+    if (sums.has(sum)) return false;
+    sums.add(sum);
+  }
+  return true;
+};
+
+/*
+    declare sum variable = n
+    while (sum > 1)
+        if sum is in set, return false
+        Convert sum to a string
+        Loop through numString
+        sum = 0
+        Add to sum
+        Add sum to set
+    return true;
+*/
