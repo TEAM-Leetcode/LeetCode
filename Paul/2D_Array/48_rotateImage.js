@@ -28,7 +28,7 @@ var matrix4 = [
  */
 var rotate = function (matrix) {
   let length = matrix.length;
-  let iLength = ((length + 1) / 2) | 0;
+  let iLength = ((length + 1) / 2) | 0; // Math.floor -> e.g. ~~, >>>, 0
   let jLength = (length / 2) | 0;
 
   for (let i = 0; i < iLength; ++i) {
