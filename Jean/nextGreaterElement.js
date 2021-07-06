@@ -20,7 +20,7 @@ const nextGreaterElement = function(nums1, nums2) {
 				foundGreater = true;
 				break;
 			}
-		}
+		} 
 
 		if (found && !foundGreater) answer.push(-1);
 	}
