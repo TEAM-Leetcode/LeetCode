@@ -26,6 +26,36 @@ var swapPairs = function (head) {
   return dummy.next;
 };
 
+function ListNode(val, next) {
+  this.val = val === undefined ? 0 : val;
+  this.next = next === undefined ? null : next;
+}
+
+var swapPairs = function (head) {
+  // 1 -> 2 -> 3 -> 4
+  // 2 -> 1 -> 4 -> 3
+
+  let previous = new Node(-1); // dummy data를 의미
+  previous.next = current;
+
+  while (current && current.next) {
+    let n1 = head; // 1
+    let n2 = head.next; // 2
+
+    // 1. 1 -> 3 으로 만들어주기
+    previous.next = n2;
+    n1.next = n2.next;
+    // 2. 2 -> 1로 만들어주기
+    // 현재 상태: 2 -> 1 -> 3
+    n2.next = n1;
+    // 3. head update
+    previous.next = n1;
+    head = n1.next; // 즉 head는 2가 된다.
+  }
+
+  return previous.next;
+};
+
 // Recursive Solution
 var swapPairs = function (head) {
   if (!head || !head.next) return head;
