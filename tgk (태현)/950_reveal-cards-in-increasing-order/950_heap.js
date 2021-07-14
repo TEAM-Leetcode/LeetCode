@@ -17,7 +17,7 @@ var deckRevealedIncreasing = function (deck) {
         heapify(deck, lenOfArray, i);
     }
 
-    // ret에 집어넣는 index를 볼 수 있게 만들고요
+    // ret에 집어넣는 index를 볼 수 있게 만들고 룹 시작합니다
     let index = 0;
     for (let i = lenOfArray - 1; i > 0; i--) {
         // 덱 첫번째 카드는 제일 작은 카드니 ret[index]에 넣어 줍니다
