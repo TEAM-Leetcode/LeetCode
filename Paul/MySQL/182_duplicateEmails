@@ -1,0 +1,13 @@
+# 1
+SELECT  EMAIL
+FROM    PERSON
+GROUP BY EMAIL
+HAVING COUNT(EMAIL) > 1;
+
+# 2
+SELECT EMAIL FROM (
+                    SELECT EMAIL, COUNT(EMAIL) AS NUM
+                    FROM PERSON
+                    GROUP BY EMAIL
+                    ) AS STATISTIC
+WHERE NUM > 1;
