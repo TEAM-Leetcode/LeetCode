@@ -1,18 +1,4 @@
 # LeetCode + Frontend Study
-
-### 사용언어
-Javascript를 주로 사용합니다. 
-
-### LeetCode 공부방식
-1. 매일 공통의 문제를 풀기
-2. 본인 폴더 생성 후 매일 푼 문제 업로드
-
-```
-tTab1204(폴더) - Array(폴더), Hash Table(폴더) ... -> Two Sum(파일명)  
-```
-
-### Frontend 공부방식 
-미정
-
-
-
+- 모든 언어 사용 가능합니다.(현재 Javascript, Java 사용 중)
+- commit message는 자유롭게 작성하시면 됩니다.
+- 파일 저장 방식도 자유롭게 올려주시면 됩니다.
