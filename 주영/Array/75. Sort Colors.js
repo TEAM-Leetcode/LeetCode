@@ -1,6 +1,5 @@
-// Two pointers와 swap을 쓰면 왜 One Pass인지?
-
 // Discussion
+// 나중에 다시 풀어봐야 할 문제
 function sortColors(nums) {
   let low = 0;
   let high = nums.length - 1;
@@ -12,7 +11,7 @@ function sortColors(nums) {
     } else if (nums[i] == 2) {
       [nums[i], nums[high]] = [nums[high], nums[i]];
       high--;
-      i--; // 왜 i-- ?
+      i--;
     }
   }
 }
