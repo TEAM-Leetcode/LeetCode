@@ -2,13 +2,15 @@
  * @param {number[]} arr
  * @return {boolean}
  */
-// var checkIfExist = function (arr) {
-//   for (let i = 0; i < arr.length; i++) {
-//     if (arr.includes(arr[i] / 2) && arr.indexOf(arr[i] / 2) !== i) return true;
-//   }
-//   return false;
-// };
+// My solution
+var checkIfExist = function (arr) {
+  for (let i = 0; i < arr.length; i++) {
+    if (arr.includes(arr[i] / 2) && arr.indexOf(arr[i] / 2) !== i) return true;
+  }
+  return false;
+};
 
+// Set
 var checkIfExist = function (arr) {
   let set = new Set();
   for (const item of arr) {
