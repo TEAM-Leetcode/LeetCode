@@ -4,8 +4,6 @@
  * @return {boolean}
  */
 var canPlaceFlowers = function (flowerbed, n) {
-  // 배열 양 끝에 꽃을 심어야 하는 경우????
-
   flowerbed = [0, ...flowerbed, 0];
 
   for (let i = 0; i < flowerbed.length; i++) {
