@@ -1,19 +1,51 @@
-// Discussion
-// 나중에 다시 풀어봐야 할 문제
 function sortColors(nums) {
-  let low = 0;
-  let high = nums.length - 1;
+  let isZero = 0;
+  let isTwo = nums.length - 1;
+  let i = 0;
 
-  for (let i = 0; i <= high; i++) {
+  while (i <= isTwo) {
+    let num = nums[i];
+
     if (nums[i] === 0) {
-      [nums[i], nums[low]] = [nums[low], nums[i]]; // swap
-      low++;
-    } else if (nums[i] == 2) {
-      [nums[i], nums[high]] = [nums[high], nums[i]];
-      high--;
-      i--;
-    }
+      nums[i] = nums[isZero];
+      nums[isZero] = num;
+      isZero++;
+      i++;
+    } else if (nums[i] === 2) {
+      nums[i] = nums[isTwo];
+      nums[isTwo] = num;
+      isTwo--;
+    } else i++;
   }
+  console.log('nums:', nums);
+  return nums;
+}
+
+let nums = [2, 0, 2, 1, 1, 0];
+sortColors(nums);
+
+// swap 함수 사용한 풀이
+function sortColors(nums) {
+  const swap = (i, j) => {
+    [nums[i], nums[j]] = [nums[j], nums[i]];
+  };
+
+  let isZero = 0;
+  let isTwo = nums.length - 1;
+  let i = 0;
+
+  while (i <= isTwo) {
+    if (nums[i] === 0) {
+      swap(isZero, i);
+      isZero++;
+      i++;
+    } else if (nums[i] === 2) {
+      swap(i, isTwo);
+      isTwo--;
+    } else i++;
+  }
+  console.log('nums:', nums);
+  return nums;
 }
 
 let nums = [2, 0, 2, 1, 1, 0];
