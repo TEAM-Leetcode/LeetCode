@@ -24,8 +24,8 @@ var calculate = function (s) {
       sign = cur;
       num = '';
     }
-    // console.log('num: ', num);
-    // console.log('stack: ', stack);
+    console.log('num: ', num);
+    console.log('stack: ', stack);
   }
   //   console.log('answer: ', stack);
   //   console.log(stack.reduce((acc, cur) => acc + cur));
