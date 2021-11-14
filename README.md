@@ -14,6 +14,3 @@
 |수|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | ![Todo](https://img.shields.io/badge/-Todo-red)| |
 |목|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange) |![Todo](https://img.shields.io/badge/-Todo-red) | |
 |금|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |![Easy](https://img.shields.io/badge/-Easy-lightorange) |![Todo](https://img.shields.io/badge/-Todo-red) | |
-
-### ❓ 문의
-ken44929@gmail.com
