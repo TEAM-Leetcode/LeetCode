@@ -20,7 +20,7 @@
 <details>
   <summary><strong>🧾 주차별 문제 확인하기</strong></summary>
 <div markdown="1">       
-  <li><a href="https://github.com/tTab1204/LeetCode/wiki/26%EC%A3%BC%EC%B0%A8-%EB%AC%B8%EC%A0%9C">26주차 문제 리스트</a></li>
+  <a href="https://github.com/tTab1204/LeetCode/wiki/26%EC%A3%BC%EC%B0%A8-%EB%AC%B8%EC%A0%9C"><li>26주차 문제 리스트</li></a>
   <li><a href="https://github.com/tTab1204/LeetCode/wiki/25%EC%A3%BC%EC%B0%A8-%EB%AC%B8%EC%A0%9C">25주차 문제 리스트</a></li>
 </div>
 </details>
