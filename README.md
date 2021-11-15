@@ -6,7 +6,7 @@
 - 주 5일(월, 화, 수, 목, 금) 진행하며, 한국 시간 기준 12:30 PM에 약 15분~30분 간 진행합니다. 
 - 매주 문제는 업데이트 됩니다.
 
-### 📑 26주차 문제
+### 📑 [26주차 문제](https://github.com/tTab1204/LeetCode/wiki/26%EC%A3%BC%EC%B0%A8-%EB%AC%B8%EC%A0%9C)
 | 리뷰 요일 | 문제 번호 | 문제 이름 | 난이도 | 상태 | Tag | 
 | :--------: | :--------: | -------- | :--------: | :--------: | :--------: |
 |월|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange)  |  ![Doing](https://img.shields.io/badge/-Doing-orange)| |
