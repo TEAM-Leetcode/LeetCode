@@ -9,7 +9,7 @@
 ### 📑 26주차 문제
 | 리뷰 요일 | 문제 번호 | 문제 이름 | 난이도 | 상태 | Tag | 
 | :--------: | :--------: | -------- | :--------: | :--------: | :--------: |
-|월|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange)  |  ![Doing](https://img.shields.io/badge/-Doing-orange)| Tree |
+|월|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange)  |  ![Done](https://img.shields.io/badge/-Easy-lightorange)| Tree |
 |화|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ![Easy](https://img.shields.io/badge/-Easy-lightorange) | ![Todo](https://img.shields.io/badge/-Todo-red) | |
 |수|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | ![Todo](https://img.shields.io/badge/-Todo-red)| |
 |목|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange) |![Todo](https://img.shields.io/badge/-Todo-red) | |
