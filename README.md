@@ -9,8 +9,8 @@
 ### 📑 26주차 문제
 | 리뷰 요일 | 문제 번호 | 문제 이름 | 난이도 | 상태 | Tag | 
 | :--------: | :--------: | -------- | :--------: | :--------: | :--------: |
-|월|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange)  |  ![Doing](https://img.shields.io/badge/-Doing-orange)| |
-|화|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ![Easy](https://img.shields.io/badge/-Easy-lightorange) | ![Todo](https://img.shields.io/badge/-Todo-red) | |
+|월|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange)  |  ![Done](https://img.shields.io/badge/-Done-lightOrange)| Tree |
+|화|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ![Easy](https://img.shields.io/badge/-Easy-lightorange) | ![Doing](https://img.shields.io/badge/-Doing-orange) | |
 |수|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | ![Todo](https://img.shields.io/badge/-Todo-red)| |
 |목|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange) |![Todo](https://img.shields.io/badge/-Todo-red) | |
 |금|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |![Easy](https://img.shields.io/badge/-Easy-lightorange) |![Todo](https://img.shields.io/badge/-Todo-red) | |
@@ -20,7 +20,8 @@
 <details>
   <summary><strong>🧾 주차별 문제 확인하기</strong></summary>
 <div markdown="1">       
-  <li><a href="https://github.com/tTab1204/LeetCode/wiki/26%EC%A3%BC%EC%B0%A8-%EB%AC%B8%EC%A0%9C">26주차 문제 리스트</a></li>
-  <li><a href="https://github.com/tTab1204/LeetCode/wiki/26%EC%A3%BC%EC%B0%A8-%EB%AC%B8%EC%A0%9C">25주차 문제 리스트</a></li>
+ <li> <a href="https://github.com/TEAM-Leetcode/LeetCode/wiki/26%EC%A3%BC%EC%B0%A8-%EB%AC%B8%EC%A0%9C">26주차 문제 리스트</a></li>
+  <li><a href="https://github.com/TEAM-Leetcode/LeetCode/wiki/25%EC%A3%BC%EC%B0%A8-%EB%AC%B8%EC%A0%9C">25주차 문제 리스트</a></li>
+  <li><a href="https://github.com/TEAM-Leetcode/LeetCode/wiki/24%EC%A3%BC%EC%B0%A8-%EB%AC%B8%EC%A0%9C">24주차 문제 리스트</a></li>
 </div>
 </details>
