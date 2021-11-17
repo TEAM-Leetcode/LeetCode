@@ -6,11 +6,11 @@
 - 주 5일(월, 화, 수, 목, 금) 진행하며, 한국 시간 기준 12:30 PM에 약 15분~30분 간 진행합니다. 
 - 매주 문제는 업데이트 됩니다.
 
-### 📑 26주차 문제
+### 📑 26주차 문제 (한국 시간 기준)
 | 리뷰 요일 | 문제 번호 | 문제 이름 | 난이도 | 상태 | Tag | 
 | :--------: | :--------: | -------- | :--------: | :--------: | :--------: |
 |월|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange)  |  ![Done](https://img.shields.io/badge/-Done-lightOrange)| Tree |
-|화|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ![Easy](https://img.shields.io/badge/-Easy-lightorange) | ![Doing](https://img.shields.io/badge/-Doing-orange) | |
+|화|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ![Easy](https://img.shields.io/badge/-Easy-lightorange)  |  ![Done](https://img.shields.io/badge/-Done-lightOrange)| Tree |
 |수|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | ![Medium](https://img.shields.io/badge/-Medium-orange) | ![Todo](https://img.shields.io/badge/-Todo-red)| |
 |목|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | ![Medium](https://img.shields.io/badge/-Medium-orange) |![Todo](https://img.shields.io/badge/-Todo-red) | |
 |금|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |![Easy](https://img.shields.io/badge/-Easy-lightorange) |![Todo](https://img.shields.io/badge/-Todo-red) | |
