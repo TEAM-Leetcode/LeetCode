@@ -9,10 +9,10 @@
 ### 📑 27주차 문제 (한국 시간 기준)
 | 요일 | 번호 | 이름 | 난이도 | 상태 | Tag | 
 | :--------: | :--------: | -------- | :--------: | :--------: | :--------: |
-|월|203|[Remove Linked List Elements](https://leetcode.com/problems/path-sum-ii/) | ![Easy](https://img.shields.io/badge/-Easy-lightorange)  |  ![Done](https://img.shields.io/badge/-Done-lightOrange)| Linked List |
-|화|876|[Middle of the Linked List](https://leetcode.com/problems/diameter-of-binary-tree/) | ![Easy](https://img.shields.io/badge/-Easy-lightorange)  |  ![Done](https://img.shields.io/badge/-Done-lightOrange)| Linked List |
+|월|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | ![Easy](https://img.shields.io/badge/-Easy-lightorange)  |  ![Done](https://img.shields.io/badge/-Done-lightOrange)| Linked List |
+|화|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | ![Easy](https://img.shields.io/badge/-Easy-lightorange)  |  ![Done](https://img.shields.io/badge/-Done-lightOrange)| Linked List |
 |수| |  |   |  |   |
-|목|141|[Linked List Cycle](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | ![Easy](https://img.shields.io/badge/-Easy-lightorange) |![Done](https://img.shields.io/badge/-Done-lightOrange) | Linked List |
+|목|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | ![Easy](https://img.shields.io/badge/-Easy-lightorange) |![Done](https://img.shields.io/badge/-Done-lightOrange) | Linked List |
 |금|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |![Medium](https://img.shields.io/badge/-Medium-orange)  |![Doing](https://img.shields.io/badge/-Doing-orange) |  |
 
 
