@@ -13,7 +13,7 @@
 |화|876|[Middle of the Linked List](https://leetcode.com/problems/diameter-of-binary-tree/) | ![Easy](https://img.shields.io/badge/-Easy-lightorange)  |  ![Done](https://img.shields.io/badge/-Done-lightOrange)| Linked List |
 |수| |  |   |  |   |
 |목|141|[Linked List Cycle](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | ![Easy](https://img.shields.io/badge/-Easy-lightorange) |![Done](https://img.shields.io/badge/-Done-lightOrange) | Linked List |
-|금|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |![Medium](https://img.shields.io/badge/-Medium-orange)  |![Todo](https://img.shields.io/badge/-Todo-red) |  |
+|금|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |![Medium](https://img.shields.io/badge/-Medium-orange)  |![Doing](https://img.shields.io/badge/-Doing-orange) |  |
 
 
 
