@@ -4,32 +4,24 @@ function ListNode(val, next) {
 }
 
 var mergeTwoLists = function (l1, l2) {
-  let merge = new ListNode();
-  let head = merge;
-
-  // head = 1
-  // 1 ->
+  let dummy = new ListNode();
+  let cur = dummy;
 
   while (l1 && l2) {
-    // Select the smallest value from either linked list,
-    // then increment that list forward.
     if (l1.val < l2.val) {
-      merge.next = l1; // l1 자체가 Linked List이기 때문에 처음 node는 head인 1이된다.
+      cur.next = l1;
       l1 = l1.next;
     } else {
-      merge.next = l2; // ?
+      cur.next = l2;
       l2 = l2.next;
     }
-    merge = merge.next;
+    cur = cur.next;
   }
 
-  // It's possible that one linked list is shorter than the other so we just
-  // add on the remainder of the last linked list. It's already sorted :)
-  if (!l1) merge.next = l2;
-  else if (!l2) merge.next = l1;
+  if (!l1) cur.next = l2;
+  else if (!l2) cur.next = l1;
 
-  // return .next because this first element in the linkedlist is empty
-  return head.next;
+  return dummy.next;
 };
 
 // Recurisve Solution
