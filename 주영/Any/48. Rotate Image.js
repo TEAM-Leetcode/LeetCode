@@ -6,9 +6,28 @@ var rotate = function (matrix) {
       matrix[j][i] = temp;
     }
   }
+
+  console.log('matrix: ', matrix);
   for (let i = 0; i < matrix.length; i++) {
     matrix[i].reverse();
   }
+
+  console.log('matrix: ', matrix);
+};
+
+const rotate = matrix => {
+  let len = matrix.length;
+
+  for (let i = 0; i < len / 2; i++) {
+    for (let j = 0; j < (len + 1) / 2; j++) {
+      let temp = matrix[i][j];
+      matrix[i][j] = matrix[len - j - 1][i];
+      matrix[len - j - 1][i] = matrix[len - i - 1][len - j - 1];
+      matrix[len - i - 1][len - j - 1] = matrix[j][len - i - 1];
+      matrix[j][len - i - 1] = temp;
+    }
+  }
+  console.log('matrix: ', matrix);
 };
 
 let matrix = [
